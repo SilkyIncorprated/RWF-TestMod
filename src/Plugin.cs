@@ -33,6 +33,13 @@ namespace rwf_testmod
         private void LoadResources(RainWorld rainWorld)
         {
             //Load Non-Character/Stage Related images here
+            //Also Add MetaData shit
+
+            string categoryName = "testCategory";
+
+            Utils.AddSongCatagory(categoryName, "Test Category", false);
+            Utils.AddMetaData("Test", new("Test Song", 6, new() { categoryName }));
+
         }
         
     }
