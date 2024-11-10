@@ -1,0 +1,9 @@
+heres what a funkin folder should look like!
+
+- funkin (root)
+	- characters
+	- charts
+	- images
+		- characters
+		- icons
+	- stages

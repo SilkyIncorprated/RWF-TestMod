@@ -1,0 +1,3 @@
+SongNameHere (Folder)
+	- Inst.ogg
+	- Voices.ogg / Voices-Player.ogg and Voices-Opponent.ogg (May include multiple voices.ogg files with unique suffix)

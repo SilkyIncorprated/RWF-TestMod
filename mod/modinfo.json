@@ -1,0 +1,10 @@
+﻿{
+	"id": "yournamehere.rwf.testmod",
+	"name": "RWF: TestMod",
+	"version": "1.0.0",
+	"authors": "YourNameHere",
+	"description": "A RWF Addon!",
+	"requirements": [ "silky.rwf" ],
+	"requirements_names": [ "Rainy World Funkin'" ],
+	"checksum_override_version" : false
+}
